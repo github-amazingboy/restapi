@@ -1,8 +1,9 @@
 {
-  "posts": [
+  "orders": [
     {
       "id": 1,
-      "title": "hello"
+      "product": "dvssl",
+	  "price":300
     }
   ],
   "profile": {
