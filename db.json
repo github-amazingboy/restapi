@@ -1,10 +1,9 @@
 {
   "posts": [
-	{
-		"id":1,
-		"product":"dvssl",
-		"price":300
-	}
+    {
+      "id": 1,
+      "title": "hello"
+    }
   ],
   "profile": {
     "name": "typicode"
